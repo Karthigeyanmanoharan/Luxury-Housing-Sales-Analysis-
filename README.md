@@ -74,6 +74,8 @@ Key analyses performed:
 - **AMENITY IMPACT**: Pricing vs quality indicators.
 - **TOP PERFORMERS**: Top 5 builders by revenue.
 
+## 📊 POWER BI VISUALIZATION SCREENSHOTS
+
 ## ✅ RESULTS & INSIGHTS
 
 - Identified premium and emerging micro-markets in Bengaluru.

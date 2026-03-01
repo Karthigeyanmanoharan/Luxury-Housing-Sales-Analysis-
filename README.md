@@ -76,6 +76,10 @@ Key analyses performed:
 
 ## 📊 POWER BI VISUALIZATION SCREENSHOTS
 
+![Alt text](<Screenshot 2026-03-01 144353.png>)
+
+![Alt text](<Screenshot 2026-03-01 144418.png>)
+
 ## ✅ RESULTS & INSIGHTS
 
 - Identified premium and emerging micro-markets in Bengaluru.
